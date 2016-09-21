@@ -7,7 +7,7 @@
 //console.log() prints to the console
 
 //operations with console.log
-console.log(5 + 5);
+// console.log(5 + 5);
 //TODO - make a subtraction, multiplication and division console.log
 
 //modulus operator
