@@ -13,18 +13,18 @@
 // < less than
 // <= less than or equal
 
-var num = 5 < 2;
-console.log(num)
+// var num = 5 < 2;
+// console.log(num)
 
-var newNum = 5 > 2;
-console.log(newNum)
+// var newNum = 5 > 2;
+// console.log(newNum)
 
-console.log((num == newNum));
+// console.log((num == newNum));
 
-var x = 1;
-var y = "1";
+// var x = 1;
+// var y = "1";
 
-console.log(x === y)
+// console.log(x === y)
 
 var t = 23;
 var u = 23;
@@ -42,3 +42,4 @@ console.log(t >= u)
 console.log(q <= w)
 console.log(z != x)
 console.log(o !== p)
+//parseInt turns a string into an integer
